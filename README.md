@@ -1,2 +1,0 @@
-# Mufasa.png
-Pyht 
