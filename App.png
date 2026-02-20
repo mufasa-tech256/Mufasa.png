@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sainthood – Life of a Gangster</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<header>
+  <nav>
+    <h2 class="logo">Sainthood</h2>
+    <ul>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#download">Download</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-text">
+    <h1>Sainthood</h1>
+    <p>Life of a gangster. Power. Respect. Legacy.</p>
+
+    <div class="store-buttons">
+      <a href="#" class="store google">Coming to Google Play</a>
+      <a href="#" class="store apple">Coming to App Store</a>
+    </div>
+  </div>
+
+  <div class="hero-img">
+    <img src="app.png" alt="Sainthood character">
+  </div>
+</section>
+
+<section id="features" class="features">
+  <h2>Enter the World of Sainthood</h2>
+
+  <div class="feature-grid">
+    <div class="card">
+      <h3>⚔ Rise to Power</h3>
+      <p>Build your reputation and dominate the streets.</p>
+    </div>
+
+    <div class="card">
+      <h3>💰 Empire Building</h3>
+      <p>Create wealth, control territory, expand influence.</p>
+    </div>
+
+    <div class="card">
+      <h3>👑 Respect & Legacy</h3>
+      <p>Your choices define your legend.</p>
+    </div>
+  </div>
+</section>
+
+<section id="download" class="download">
+  <h2>Download Sainthood</h2>
+  <p>Coming soon to Android & iOS</p>
+
+  <div class="store-buttons center">
+    <a href="#" class="store google">Google Play (Soon)</a>
+    <a href="#" class="store apple">App Store (Soon)</a>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <h2>Contact</h2>
+
+  <form action="https://formsubmit.co/prince.mufasa@icloud.com" method="POST">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <textarea name="message" placeholder="Message"></textarea>
+
+    <input type="hidden" name="_captcha" value="false">
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
+<footer>
+  <p>© 2026 Sainthood. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
